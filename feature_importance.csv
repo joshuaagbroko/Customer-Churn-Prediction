@@ -1,0 +1,7 @@
+"Feature","Coefficient"
+"(Intercept)",-10.1144272788341
+"`Churn Score`",0.206475883881169
+"`Churn Reason`",-0.351080095486724
+"Contract",-1.07198099341498
+"`Tenure Months`",-0.0197373124568164
+"`Paperless Billing`",0.93726504278407
